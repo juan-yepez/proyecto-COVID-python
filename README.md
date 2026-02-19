@@ -15,6 +15,6 @@ El proyecto está dividido en los siguientes componentes:
 * Librería Sodapy (para conexión con la API)
 
 ## autor
-juan jose yepez gomez-utp
+juan jose yepez gomez ingenieria en sistemas -utp
 
  
