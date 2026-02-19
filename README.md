@@ -1,5 +1,4 @@
 # Proyecto de Consulta COVID-19 en Colombia
-> Este proyecto cumple con los requerimientos de arquitectura modular del curso.
 
 ## 1. Información General
 Este software consume la API de Socrata para visualizar datos actualizados del Instituto Nacional de Salud.
@@ -15,5 +14,7 @@ El proyecto está dividido en los siguientes componentes:
 * 3 Librería Pandas (para manejo de datos)
 * Librería Sodapy (para conexión con la API)
 
-  ##autor
-  juan jose yepez gomez ingenieria en sistemas- utp
+## autor
+juan jose yepez gomez-utp
+
+ 
